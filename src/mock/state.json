@@ -1,0 +1,32 @@
+{
+  "listStates": [
+    {
+      "id": "1",
+      "name": "Andijan"
+    },
+    {
+      "id": "2",
+      "name": "Tashkent"
+    },
+    {
+      "id": "3",
+      "name": "Qashqadaryo"
+    },
+    {
+      "id": "4",
+      "name": "Kharezm"
+    },
+    {
+      "id": "5",
+      "name": "Autonomy Republic of Karakalpakstan"
+    },
+    {
+      "id": "6",
+      "name": "Yangiyul"
+    },
+    {
+      "id": "7",
+      "name": "Asaka"
+    }
+  ]
+}
